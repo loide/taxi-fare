@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/MainMap.qml</file>
+        <file>qml/MyButton.qml</file>
+        <file>qml/MyToolbar.qml</file>
+        <file>qml/PopupDialog.qml</file>
+        <file>data/images/bt_ok_disabled.png</file>
+        <file>data/images/bt_ok_off.png</file>
+        <file>data/images/bt_ok_on.png</file>
+        <file>data/images/zoom_in.png</file>
+        <file>data/images/zoom_out.png</file>
+        <file>data/images/car_taxi.png</file>
+        <file>data/images/map-marker-flag-blue.png</file>
+        <file>data/images/map-marker-flag--green.png</file>
+        <file>data/images/help.png</file>
+        <file>data/images/accept.png</file>
+        <file>data/images/information.png</file>
+    </qresource>
+</RCC>

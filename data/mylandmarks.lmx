@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lmx xmlns="http://www.nokia.com/schemas/location/landmarks/1/0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.nokia.com/schemas/location/landmarks/1/0/ lmx.xsd">
+<landmarkCollection>
+    <landmark>
+        <name>INdT</name>
+        <coordinates>
+            <latitude>-3.006984</latitude>
+            <longitude>-60.033088</longitude>
+        </coordinates>
+    </landmark>
+    <landmark>
+        <name>Manaus</name>
+        <coordinates>
+            <latitude>-3.0607</latitude>
+            <longitude>-60.0130</longitude>
+        </coordinates>
+    </landmark>
+    <landmark>
+        <name>Manacapuru</name>
+        <coordinates>
+            <latitude>-3.262548</latitude>
+            <longitude>-60.631027</longitude>
+        </coordinates>
+    </landmark>
+    <landmark>
+        <name>Iranduba</name>
+        <coordinates>
+            <latitude>-3.200334</latitude>
+            <longitude>-60.178006</longitude>
+        </coordinates>
+    </landmark>
+    <landmark>
+        <name>Presidente Figueiredo</name>
+        <coordinates>
+            <latitude>-2.04371</latitude>
+            <longitude>-60.028038</longitude>
+        </coordinates>
+    </landmark>
+    <landmark>
+        <name>Rio Preto da Eva</name>
+        <coordinates>
+            <latitude>-2.697005</latitude>
+            <longitude>-59.700923</longitude>
+        </coordinates>
+    </landmark>
+    <landmark>
+        <name>Itacoatiara</name>
+        <coordinates>
+            <latitude>-3.082923</latitude>
+            <longitude>-58.433991</longitude>
+        </coordinates>
+    </landmark>
+</landmarkCollection>
+</lmx>
